@@ -1,0 +1,6 @@
+train: /Users/ozgurcem/yolo11_custom/dataset/images/train
+val: /Users/ozgurcem/yolo11_custom/dataset/images/val
+test: /Users/ozgurcem/yolo11_custom/dataset/images/test
+
+nc: 1
+names: ['custom_class']
