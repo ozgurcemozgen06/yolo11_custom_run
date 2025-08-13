@@ -22,3 +22,7 @@ raw_dataset/
 # Scripts
 generate_dataset.py 
 train_custom.py
+
+# Models 
+yolo11m.pt
+yolo11s.pt
